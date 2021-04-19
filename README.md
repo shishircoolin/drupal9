@@ -6,5 +6,5 @@
 ## List information about this app.
 `lando info`
 
-## If site setup fails manually run
+## If site setup fails, manually run:
 `lando composer install`
