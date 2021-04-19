@@ -2,6 +2,7 @@ name: drupal9
 recipe: drupal9
 config:
   php: '7.4'
+  composer_version: "2.0.8"
   via: apache
   webroot: .
   database: mysql
